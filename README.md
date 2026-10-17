@@ -1,6 +1,9 @@
 # Retail Sales Analysis Using Microsoft Excel
 
 ## Project Overview
+## Dashboard Preview
+
+![Sales Performance Dashboard](sales-dashboard.png)
 
 This is my first practical data analytics project, completed as part of my journey toward becoming a Data Analyst, with a long-term interest in Engineering Data Analytics.
 
