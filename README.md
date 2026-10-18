@@ -34,6 +34,14 @@ I used Microsoft Excel to clean, validate, analyse, and visualise a retail sales
 - Dashboard creation
 - Data interpretation and reporting
 
+## Analysis Process
+
+1. **Clean:** Removed duplicate records and standardised inconsistent region and payment-method entries.
+2. **Validate:** Checked for missing values, duplicate order IDs, and invalid payment methods.
+3. **Analyse:** Used Excel formulas and PivotTables to summarise revenue by region, product, and payment method.
+4. **Visualise:** Created KPI summaries, charts, and a sales performance dashboard.
+5. **Interpret:** Identified key findings, documented limitations, and developed evidence-based recommendations.
+
 ## Key Findings
 
 The cleaned practice dataset contained 15 unique orders.
@@ -56,6 +64,7 @@ Revenue alone does not show profitability. Further analysis would require cost d
 
 ## Recommendations and Next Steps
 
+- Investigate regional performance: Abuja generated ₦178,000 in recorded revenue compared with ₦78,000 in Lagos. Compare order counts, average order values, customer demand, and relevant costs before deciding where additional investment may be most effective.
 - Investigate the missing quantity for ORD009 before finalising the sales figures.
 - Analyse product costs and profit margins to identify the most profitable products.
 - Examine average order value by payment method before drawing conclusions about customer purchasing behaviour.
@@ -63,7 +72,8 @@ Revenue alone does not show profitability. Further analysis would require cost d
 
 ## Project Files
 
-- `excel-sales-analysis.xlsx` — Excel workbook containing the practice dataset, cleaning checks, formulas, PivotTables, KPI analysis, and dashboard.
+- [Excel Sales Analysis Workbook](excel-sales-analysis.xlsx) — Contains the practice dataset, cleaning checks, formulas, PivotTables, KPI analysis, and dashboard.
+- [View the Project Repository]([https://github.com/](https://github.com/princessnbernard/excel-sales-analysis/tree/main)) — Explore the project files and documentation.
 
 ## What I Learned
 
